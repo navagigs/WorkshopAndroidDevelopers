@@ -1,4 +1,4 @@
-# WorksopAndroidDevelopers
+# WorkshopAndroidDevelopers
 Android Developer (Intermediate class)
 #Sesi 1
 Hari/tanggal : Jumat, 19 Agustus 2016
