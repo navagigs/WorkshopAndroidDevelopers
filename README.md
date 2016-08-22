@@ -1,5 +1,5 @@
 # WorksopAndroidDevelopers
-Android Developer (Intermediate class
+Android Developer (Intermediate class)
 #Sesi 1
 Hari/tanggal : Jumat, 19 Agustus 2016
 Pukul : 14.00 WIB - 17.00 WIB
